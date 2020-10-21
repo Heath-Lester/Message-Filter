@@ -1,3 +1,4 @@
+
 let messages = [
     { friend: "Sally", text: "I saw a dolphin eat a bird." },
     { friend: "Sally", text: "Where is Kazakhstan?" },
