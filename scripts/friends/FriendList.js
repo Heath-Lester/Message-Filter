@@ -29,7 +29,7 @@ export const FriendList = () => {
 
 
 eventHub.addEventListener("change" , changeEvent => {
-
+    debugger
     if (changeEvent.target.classList.contains("friend")) {
         const selectedFriend = changeEvent.target.value
 
